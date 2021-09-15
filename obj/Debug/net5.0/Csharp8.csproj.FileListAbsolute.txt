@@ -1,0 +1,16 @@
+C:\Users\roang\source\repos\Csharp8\Csharp8\bin\Debug\net5.0\Csharp8.exe
+C:\Users\roang\source\repos\Csharp8\Csharp8\bin\Debug\net5.0\Csharp8.deps.json
+C:\Users\roang\source\repos\Csharp8\Csharp8\bin\Debug\net5.0\Csharp8.runtimeconfig.json
+C:\Users\roang\source\repos\Csharp8\Csharp8\bin\Debug\net5.0\Csharp8.runtimeconfig.dev.json
+C:\Users\roang\source\repos\Csharp8\Csharp8\bin\Debug\net5.0\Csharp8.dll
+C:\Users\roang\source\repos\Csharp8\Csharp8\bin\Debug\net5.0\ref\Csharp8.dll
+C:\Users\roang\source\repos\Csharp8\Csharp8\bin\Debug\net5.0\Csharp8.pdb
+C:\Users\roang\source\repos\Csharp8\Csharp8\obj\Debug\net5.0\Csharp8.csprojAssemblyReference.cache
+C:\Users\roang\source\repos\Csharp8\Csharp8\obj\Debug\net5.0\Csharp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roang\source\repos\Csharp8\Csharp8\obj\Debug\net5.0\Csharp8.AssemblyInfoInputs.cache
+C:\Users\roang\source\repos\Csharp8\Csharp8\obj\Debug\net5.0\Csharp8.AssemblyInfo.cs
+C:\Users\roang\source\repos\Csharp8\Csharp8\obj\Debug\net5.0\Csharp8.csproj.CoreCompileInputs.cache
+C:\Users\roang\source\repos\Csharp8\Csharp8\obj\Debug\net5.0\Csharp8.dll
+C:\Users\roang\source\repos\Csharp8\Csharp8\obj\Debug\net5.0\ref\Csharp8.dll
+C:\Users\roang\source\repos\Csharp8\Csharp8\obj\Debug\net5.0\Csharp8.pdb
+C:\Users\roang\source\repos\Csharp8\Csharp8\obj\Debug\net5.0\Csharp8.genruntimeconfig.cache
